@@ -19,4 +19,5 @@ Download Dataset from https://www.kaggle.com/datasets/noorsaeed/student-studeis-
   This Project is a Classification Project so Training multiple ML Algorithm but not good accuracy.when using RandomForestClassifier that's accuracy is best as compared to another.so i can used this Algorithm.Achieved 82% Accuracy.
 # Result:
 Classification Report and Confusion Matrix are given in below table:
-
+![Alt text](https://github.com/shakir1121/Education_Recommendation_System_Using_ML/blob/main/result_images/classification_report.PNG?raw=true)
+![Alt text](https://github.com/shakir1121/Education_Recommendation_System_Using_ML/blob/main/result_images/CM.PNG?raw=true)
