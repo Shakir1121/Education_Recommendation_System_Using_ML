@@ -21,3 +21,8 @@ Download Dataset from https://www.kaggle.com/datasets/noorsaeed/student-studeis-
 Classification Report and Confusion Matrix are given in below table:
 ![Alt text](https://github.com/shakir1121/Education_Recommendation_System_Using_ML/blob/main/result_images/classification_report.PNG?raw=true)
 ![Alt text](https://github.com/shakir1121/Education_Recommendation_System_Using_ML/blob/main/result_images/CM.PNG?raw=true)
+# User Interface:
+This is Web Based User Interface Using Flask and HTML,CSS,Bootstrap.
+![Alt text](https://github.com/shakir1121/Education_Recommendation_System_Using_ML/blob/main/result_images/uii.PNG?raw=true)
+![Alt text](https://github.com/shakir1121/Education_Recommendation_System_Using_ML/blob/main/result_images/uii1.PNG?raw=true)
+![Alt text](https://github.com/shakir1121/Education_Recommendation_System_Using_ML/blob/main/result_images/result.PNG?raw=true)
